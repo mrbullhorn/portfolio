@@ -5,14 +5,15 @@
 .title {
   text-align: center;
   width: 100%;
-  margin-top: 10%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
   border: solid #388E3C;
   border-width: 10px;
   border-radius: 10px;
   padding: 20px;
   background-color: #DDEEDF;
   box-sizing: border-box;
-  margin-bottom: 10%;
+  
 }
 
 h1 {
@@ -21,24 +22,30 @@ h1 {
 }
 
 img {
-
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border: solid #388E3C;
+  margin-top: 2.5%;
+  margin-bottom: 5%;
   border-width: 10px;
   border-radius: 10px;
-  max-height: 100%;
-  max-width: 100%;
+  max-width: 80%;
 }
 
 .about-me {
-  width: 100%;
-  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  margin-top: 5%;
+  margin-bottom: 5%;
   border: solid #388E3C;
   border-width: 10px;
   border-radius: 10px;
-  padding: 20px;
+  padding: 10px;
   background-color: #DDEEDF;
   box-sizing: border-box;
-  margin-bottom: 10%;
+  
 }
 
 .about {
@@ -48,7 +55,8 @@ img {
 
 .sections {
   width: 100%;
+  margin-top: 20%;
+  margin-bottom: 20%;
   padding: 5px;
   box-sizing: border-box;
-  margin-bottom: 10%;
-}
+  }
