@@ -47,12 +47,7 @@ img {
 
 .sections {
   width: 100%;
-  margin-top: 10%;
-  border: solid #388E3C;
-  border-width: 10px;
-  border-radius: 10px;
-  padding: 20px;
-  background-color: #DDEEDF;
+  padding: 5px;
   box-sizing: border-box;
   margin-bottom: 10%;
 }
