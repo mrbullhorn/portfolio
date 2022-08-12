@@ -33,6 +33,10 @@ img {
   max-width: 80%;
 }
 
+p{
+  margin-left: 45px;
+}
+
 .about-me {
   margin-left: auto;
   margin-right: auto;
@@ -50,6 +54,7 @@ img {
 
 .sect-titles {
   color: #0078AA;
+  margin-bottom: 20px;
 }
 
 
@@ -71,8 +76,8 @@ img {
 
 .sections {
   width: 100%;
-  margin-top: 20%;
-  margin-bottom: 20%;
+  margin-top: 15%;
+  margin-bottom: 15%;
   padding: 5px;
   box-sizing: border-box;
   }

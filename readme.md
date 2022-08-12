@@ -22,7 +22,7 @@ _{My primary goal with this page was ease of use. The page is straightforward an
 
 ## Known Bugs
 
-* _No known bugs_
+* _"bullets" in the main section titles behave strangely at certain sizes_
 
 
 ## License
