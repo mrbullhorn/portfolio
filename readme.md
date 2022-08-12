@@ -29,4 +29,6 @@ My primary goal with this page was ease of use. The page is straightforward and 
 
 MIT
 
+* [Github Pages] (https://mrbullhorn.github.io/portfolio/)
+
 Copyright (c) _2022_ _Hans Ellis_
