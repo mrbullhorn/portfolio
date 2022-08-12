@@ -1,6 +1,6 @@
 # _Hans' Portfolio_
 
-#### By _**{Hans Ellis}**_
+#### By _**Hans Ellis**_
 
 #### _This a clean and simple page about myself and my projects._
 
@@ -27,6 +27,6 @@ My primary goal with this page was ease of use. The page is straightforward and 
 
 ## License
 
-_MIT_
+MIT
 
 Copyright (c) _2022_ _Hans Ellis_
