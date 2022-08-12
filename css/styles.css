@@ -1,5 +1,5 @@
 .container{
-  background: #F2F9F1;
+  background: #F6F6F6;
 }
 
 .title {
@@ -7,25 +7,25 @@
   width: 100%;
   margin-top: 2.5%;
   margin-bottom: 2.5%;
-  border: solid #388E3C;
+  border: solid #0078AA;
   border-width: 10px;
   border-radius: 10px;
   padding: 20px;
-  background-color: #DDEEDF;
+  background-color: #F6F6F6;
   box-sizing: border-box;
   
 }
 
 h1 {
   font-family: garamond, serif;
-  color: #388E3C;
+  color: #0078AA;
 }
 
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: solid #388E3C;
+  border: solid #0078AA;
   margin-top: 2.5%;
   margin-bottom: 5%;
   border-width: 10px;
@@ -39,18 +39,23 @@ img {
   width: 80%;
   margin-top: 5%;
   margin-bottom: 5%;
-  border: solid #388E3C;
+  border: solid #0078AA;
   border-width: 10px;
   border-radius: 10px;
   padding: 10px;
-  background-color: #DDEEDF;
+  background-color: #F6F6F6;
   box-sizing: border-box;
   
 }
 
+.sect-titles {
+  color: #0078AA;
+}
+
+
 .about {
   font-weight: bold;
-  color: #388E3C;
+  color: #0078AA;
 }
 
 .dividers {
@@ -58,7 +63,7 @@ img {
   margin-top: 3%;
   margin-right: 10px;
   width: 1%;
-  border: solid #8BC34A;
+  border: solid #0078AA;
   border-width: 5px;
   border-radius: 10px;
   box-sizing: border-box;
