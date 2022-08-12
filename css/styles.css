@@ -1,8 +1,58 @@
+.container{
+  background: #F2F9F1;
+}
+
+.title {
+  width: 100%;
+  margin-top: 10%;
+  border: solid #388E3C;
+  border-width: 10px;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #DDEEDF;
+  box-sizing: border-box;
+  margin-bottom: 10%;
+}
+
 h1 {
   font-family: garamond, serif;
+  color: #388E3C;
 }
 
 img {
-  max-height: auto;
+
+  border: solid #388E3C;
+  border-width: 10px;
+  border-radius: 10px;
+  max-height: 100%;
   max-width: 100%;
+}
+
+.about-me {
+  width: 100%;
+  margin-top: 10%;
+  border: solid #388E3C;
+  border-width: 10px;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #DDEEDF;
+  box-sizing: border-box;
+  margin-bottom: 10%;
+}
+
+.about {
+  font-weight: bold;
+  color: #388E3C;
+}
+
+.sections {
+  width: 100%;
+  margin-top: 10%;
+  border: solid #388E3C;
+  border-width: 10px;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #DDEEDF;
+  box-sizing: border-box;
+  margin-bottom: 10%;
 }
